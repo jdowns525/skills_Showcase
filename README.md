@@ -24,8 +24,8 @@ Here is a screenshot of the website that is now deployed and continously maintai
 
 3. `to-do list/ContentView.swift`: This file contains a the content view code for a simple to do list application I've been working on lately and plan on keep making more robust as time goes by to strenghten my swift skills.
 
-![To Do List Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift.png)
-![To Do List Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift.png)
+![To Do List/ Entities and Attributes](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift.png)
+![To Do List Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift2.png)
 
 At the moment, this is a project that lives in my computer for personal use.
 
