@@ -4,10 +4,16 @@ This repository contains files that showcase my skills in various areas includin
 
 ## Files
 
-1. `app/controllers/landlords_controller.rb`: This file contains an example of my LandlordsController and the parameters I used to query information, conditionals, and implementing Ruby Gems. (from line 4-21). This project has been deployed at mylandlordratings.org
-![Image description](https://github.com/jdowns525/skills_Showcase/blob/main/landlord.png)
+1. `app/controllers/landlords_controller.rb`: This file contains an example of my LandlordsController and the parameters I used to query information, conditionals, and implementing Ruby Gems. (from line 4-21). 
 
-2. `db/seeds.rb`: This file contains all of the seed information that was fed to the database for this SeedSphere application.
+![LandlordRatingsCode](https://github.com/jdowns525/skills_Showcase/blob/main/line4_21.png)
+
+This project has been deployed at (https://mylandlordratings.org)
+
+![LandlordRatings](https://github.com/jdowns525/skills_Showcase/blob/main/landlord.png)
+
+2. `db/seeds.rb`: This file contains all of the seed information that was fed to the database for this SeedSphere application. I am fairly proud of this code since it took me a while to gather this information and figure out how to input into the database once hosted online. 
+
 ![SeedSphere Site Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/seeds.png)
 
 3. `to-do list/ContentView.swift`: This file contains a the content view code for a simple to do list application I've been working on lately and plan on keep making more robust.
