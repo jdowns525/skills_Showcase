@@ -12,11 +12,22 @@ This project has been deployed at (https://mylandlordratings.org)
 
 ![LandlordRatings](https://github.com/jdowns525/skills_Showcase/blob/main/landlord.png)
 
-2. `db/seeds.rb`: This file contains all of the seed information that was fed to the database for this SeedSphere application. I am fairly proud of this code since it took me a while to gather this information and figure out how to input into the database once hosted online. 
+2. `db/seeds.rb`: This folder contains all of the seed information that was fed to the database for this SeedSphere application. 
+
+I am fairly proud of this code since it took me a while to gather this information and figure out how to input into the database once hosted online. Here is a snippet of the code I used to set seed categories and the seeds' information that would be stored in the database.
+
+![Seeds.rb folder code snippet](https://github.com/jdowns525/skills_Showcase/blob/main/seeds_rb_file.png)
+
+Here is a screenshot of the website that is now deployed and continously maintained by me.
 
 ![SeedSphere Site Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/seeds.png)
 
-3. `to-do list/ContentView.swift`: This file contains a the content view code for a simple to do list application I've been working on lately and plan on keep making more robust.
+3. `to-do list/ContentView.swift`: This file contains a the content view code for a simple to do list application I've been working on lately and plan on keep making more robust as time goes by to strenghten my swift skills.
+
+![To Do List Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift.png)
+![To Do List Screenshot](https://github.com/jdowns525/skills_Showcase/blob/main/todolist_swift.png)
+
+At the moment, this is a project that lives in my computer for personal use.
 
 4. `app/controllers/solutions_controller.rb`: This file contains a code for a controller, I made this app using OpenAIs API. I wanted to create a short children's story teller. I was able to give the API a role, which i set as "Dr.Seuss". This was particularly an interesting project because I had to figure out how to set the enviroments to private so my API keys were not out in public.
 
