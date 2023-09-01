@@ -4,7 +4,7 @@ This repository contains files that showcase my skills in various areas includin
 
 ## Files
 
-1. `app/controllers/landlords_controller.rb`: This file contains an example of my LandlordsController and the parameters I used to query information, conditionals, and implementing Ruby Gems. (from line 4-21). 
+1. `app/controllers/landlords_controller.rb`: This file contains an example of my LandlordsController and the parameters I used to query information, conditionals, and implementing Ruby Gems that could execute the pagination. 
 
 ![LandlordRatingsCode](https://github.com/jdowns525/skills_Showcase/blob/main/line4_21.png)
 
